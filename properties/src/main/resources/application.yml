@@ -1,0 +1,9 @@
+try-springboot-with-java8time:
+  iso:
+    date: "2015-12-04"
+    time: "12:34:56"
+    date-time: "2015-12-04T12:34:56"
+  custom:
+    date: "2015年12月4日"
+    time: "12時34分56秒"
+    date-time: "2015年12月4日 12時34分56秒"
